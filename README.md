@@ -12,7 +12,7 @@ https://github.com/RedCocoon/CocoonsBosses/releases
 Rare drop from snow golems. 1% drop chance + 1% per looting level.
 
 # Bosses
-# Frostologer
+## Frostologer
 Place an emerald block on the ground, surround the 4 sides with snow blocks, and fill the corners with blue ice.
 Then, throw a Totem of Undying, and right click the emerald block with a Heart of the Snow
 
