@@ -13,6 +13,8 @@ Rare drop from snow golems. 1% drop chance + 1% per looting level.
 
 # Bosses
 ## Frostologer
+For best effect, summon this boss in the middle of a 50x10x50 flat platform with no holes or obstacles.
+
 Place an emerald block on the ground, surround the 4 sides with snow blocks, and fill the corners with blue ice.
 Then, throw a Totem of Undying, and right click the emerald block with a Heart of the Snow
 
