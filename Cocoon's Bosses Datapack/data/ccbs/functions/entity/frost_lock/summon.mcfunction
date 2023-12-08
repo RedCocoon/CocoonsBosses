@@ -1,0 +1,1 @@
+execute summon minecraft:item_display as @s at @s run function ccbs:entity/frost_lock/init

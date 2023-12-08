@@ -1,0 +1,1 @@
+execute summon vindicator run function ccbs:entity/temp_entity/vindicator/init

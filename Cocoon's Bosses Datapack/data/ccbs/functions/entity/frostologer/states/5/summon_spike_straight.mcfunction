@@ -1,0 +1,1 @@
+$execute positioned ^$(distance_1) ^ ^$(distance) run function ccbs:circle/ice_spike/summon

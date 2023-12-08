@@ -1,0 +1,2 @@
+data merge entity @s {Tags:["ccbs.tick", "ccbs.frostologer.ignore", "ccbs.frostologer.stray", "ccbs.temp_entity"],ArmorItems:[{},{},{},{id:"minecraft:leather_helmet",Count:1b}],DeathLootTable:"minecraft:empty",Health:6f,active_effects:[{id:"minecraft:slowness",amplifier:3b,duration:-1,show_particles:0b}]}
+scoreboard players set @s ccbs.timer 200

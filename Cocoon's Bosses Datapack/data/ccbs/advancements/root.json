@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:gold_ingot",
+	  "nbt": "{CustomModelData:1440701}"
+    },
+    "title": {
+      "translate": "ccbs.install.title"
+    },
+    "description": {
+      "translate": "ccbs.install.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "global:cocoon",
+  "criteria": {
+    "ticker": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

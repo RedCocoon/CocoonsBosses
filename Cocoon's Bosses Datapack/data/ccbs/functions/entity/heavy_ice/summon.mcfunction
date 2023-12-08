@@ -1,0 +1,1 @@
+execute summon minecraft:slime run function ccbs:entity/heavy_ice/init

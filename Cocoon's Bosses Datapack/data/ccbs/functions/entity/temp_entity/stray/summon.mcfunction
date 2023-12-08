@@ -1,0 +1,1 @@
+execute summon stray run function ccbs:entity/temp_entity/stray/init

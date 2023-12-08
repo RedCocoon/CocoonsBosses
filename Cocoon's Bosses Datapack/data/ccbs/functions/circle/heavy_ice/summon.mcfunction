@@ -1,0 +1,1 @@
+execute summon minecraft:item_display as @s at @s run function ccbs:circle/heavy_ice/init

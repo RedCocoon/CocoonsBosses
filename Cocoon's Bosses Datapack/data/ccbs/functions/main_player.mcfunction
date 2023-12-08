@@ -1,0 +1,1 @@
+ execute if score @s ccbs.wfoas_used matches 1.. run function ccbs:item/wfoas/used

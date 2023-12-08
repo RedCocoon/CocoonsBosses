@@ -1,0 +1,1 @@
+function ccbs:entity/frostologer/states/set/0

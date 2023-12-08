@@ -1,0 +1,1 @@
+execute unless block ~ ~ ~ #minecraft:wither_immune run fill ~ ~ ~ ~ ~ ~ air destroy

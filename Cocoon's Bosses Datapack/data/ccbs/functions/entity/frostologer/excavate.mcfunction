@@ -1,0 +1,2 @@
+execute unless block ~ ~1 ~ #ccbs:frostologer_can_teleport_inside run function ccbs:entity/ice_spike/summon
+execute unless block ~ ~1 ~ #ccbs:frostologer_can_teleport_inside run function ccbs:entity/generic/heal {amount: 10}

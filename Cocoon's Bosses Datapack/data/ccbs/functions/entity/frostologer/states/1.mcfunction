@@ -1,0 +1,2 @@
+execute if score @s ccbs.timer matches 1.. run scoreboard players remove @s ccbs.timer 1
+execute if score @s ccbs.timer matches ..0 as @s at @s run function ccbs:entity/frostologer/states/1/summon_heavy_ice

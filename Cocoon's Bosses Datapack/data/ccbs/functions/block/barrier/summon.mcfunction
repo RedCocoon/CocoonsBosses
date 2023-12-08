@@ -1,0 +1,1 @@
+execute summon minecraft:item_display run function ccbs:block/barrier/init

@@ -1,0 +1,28 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fungus_on_a_stick"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_name",
+          "entity": "this",
+          "name": {
+            "text": "Heart of The Snow",
+            "color": "yellow",
+            "italic": false
+          }
+        },
+        {
+          "function": "minecraft:set_nbt",
+          "tag": "{CustomModelData:1440700,ccbs:{id:\"heart_of_the_snow\"}}"
+        }
+      ]
+    }
+  ]
+}
